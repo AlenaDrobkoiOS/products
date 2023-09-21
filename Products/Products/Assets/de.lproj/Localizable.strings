@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Products
+
+  Created by Alena Drobko on 05.08.23.
+  
+*/
+
+"Global.error" = "Error";
+"Global.warning" = "Warning";
+"Global.OK" = "OK";
+"Global.retry" = "Retry";
+"Global.urlWarning" = "Sorry, this url is not avaliable";
+"Product.loading" = "Produkte werden geladen...";
+
+"Product.actionPrice" = "statt";
+"Product.euro" = "€";
